@@ -36,7 +36,7 @@ git clone https://github.com/wEZELBAYRAKTAR/TTL-Master
 
 Çalıştırma:
 
-İndirdiğiniz klasöre gidin ve TTLMaster.bat dosyasını çift tıklayarak çalıştırın.
+İndirdiğiniz klasöre gidin ve TTL-Master.bat dosyasını çift tıklayarak çalıştırın.
 Yönetici izinleri istenirse, onaylayarak devam edin.
 
 🤝 Katkıda Bulunma
