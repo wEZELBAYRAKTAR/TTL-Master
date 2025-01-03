@@ -35,13 +35,13 @@ TTL değeri değiştirildikten sonra, en iyi sonuçlar için sistemi yeniden ba�
 
 GitHub Repository adresinden proje dosyalarını indirin veya klonlayın.
 
-git clone https://github.com/wEZELBAYRAKTAR/TTL-Master
+git clone https://github.com/wEZELBAYRAKTAR/TTL-Master.git
 
 
 Çalıştırma:
 
 İndirdiğiniz klasöre gidin ve TTL-Master.bat dosyasını çift tıklayarak çalıştırın.
-Yönetici izinleri istenirse, onaylayarak devam edin.
+Yönetici izinleri istenecektir, onaylayarak devam edin.
 
 🤝 Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen CONTRIBUTING.md dosyasını inceleyin. Her türlü katkıya açığız!
