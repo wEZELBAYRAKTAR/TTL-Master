@@ -1,5 +1,7 @@
 TTL Master
-![Uploading Black and White Futuristic Tech Presentation.png…]()
+
+![Black and White Futuristic Tech Presentation](https://github.com/user-attachments/assets/47d32f11-8ff4-43ac-8425-bbdabdcb64f5)
+
 
 TTL Master v1 - wEZELBAYRAKTAR
 
