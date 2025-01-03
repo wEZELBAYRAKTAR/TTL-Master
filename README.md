@@ -1,4 +1,6 @@
 TTL Master
+![Uploading Black and White Futuristic Tech Presentation.png…]()
+
 TTL Master v1 - wEZELBAYRAKTAR
 
 📋 Proje Hakkında
